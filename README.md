@@ -1,5 +1,5 @@
-# 💫 About Me:
-Machine Learning<br>Data Science<br>Deep Learning <br>Artificial Intelligence (AI)<br>Mechatronics<br>Robotics<br>Avionics<br>Rocket Science<br>C++<br>Python<br>
+About Me:
+Machine Learning<br>Data Science<br>Deep Learning <br>Artificial Intelligence (AI)<br>Mechatronics<br>Robotics<br>C++<br>Python<br>
 
 
 ## 🌐 Socials:
