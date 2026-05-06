@@ -5,7 +5,7 @@ Mechatronics Engineer • Computer Vision • Deep Learning • SaaS
 </p>
 
 <p align="center">
-Building AI-powered systems with Python, C++, YOLO and modern vision technologies.
+Building AI-powered systems with Python, Deep Learning/YOLO and modern vision technologies.
 </p>
 
 ---
